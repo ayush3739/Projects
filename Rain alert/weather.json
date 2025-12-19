@@ -1,0 +1,176 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 4,
+    "list": [
+        {
+            "dt": 1756587600,
+            "main": {
+                "temp": 26.6,
+                "feels_like": 26.6,
+                "temp_min": 26.6,
+                "temp_max": 26.6,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 981,
+                "humidity": 87,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 3.06,
+                "deg": 101,
+                "gust": 7.5
+            },
+            "visibility": 10000,
+            "pop": 0.62,
+            "rain": {
+                "3h": 0.82
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-08-30 21:00:00"
+        },
+        {
+            "dt": 1756598400,
+            "main": {
+                "temp": 26.42,
+                "feels_like": 26.42,
+                "temp_min": 26.05,
+                "temp_max": 26.42,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 980,
+                "humidity": 88,
+                "temp_kf": 0.37
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.9,
+                "deg": 91,
+                "gust": 6.65
+            },
+            "visibility": 10000,
+            "pop": 0.54,
+            "rain": {
+                "3h": 0.12
+            },
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2025-08-31 00:00:00"
+        },
+        {
+            "dt": 1756609200,
+            "main": {
+                "temp": 28.03,
+                "feels_like": 32.02,
+                "temp_min": 28.03,
+                "temp_max": 28.75,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 981,
+                "humidity": 79,
+                "temp_kf": -0.72
+            },
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": {
+                "all": 99
+            },
+            "wind": {
+                "speed": 4.05,
+                "deg": 117,
+                "gust": 7.43
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "rain": {
+                "3h": 1.98
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-08-31 03:00:00"
+        },
+        {
+            "dt": 1756620000,
+            "main": {
+                "temp": 30.12,
+                "feels_like": 35.09,
+                "temp_min": 30.12,
+                "temp_max": 30.12,
+                "pressure": 1004,
+                "sea_level": 1004,
+                "grnd_level": 981,
+                "humidity": 69,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "moderate rain",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 3.64,
+                "deg": 131,
+                "gust": 5
+            },
+            "visibility": 10000,
+            "pop": 1,
+            "rain": {
+                "3h": 4.94
+            },
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2025-08-31 06:00:00"
+        }
+    ],
+    "city": {
+        "id": 6954929,
+        "name": "Greater Noida",
+        "coord": {
+            "lat": 28.4669,
+            "lon": 77.566
+        },
+        "country": "IN",
+        "population": 293908,
+        "timezone": 19800,
+        "sunrise": 1756600054,
+        "sunset": 1756645987
+    }
+}

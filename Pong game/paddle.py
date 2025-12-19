@@ -1,0 +1,17 @@
+from turtle import Turtle
+class Pad(Turtle):
+    def __init__(self,posi):
+        super().__init__()
+        self.shape("square")
+        self.color("white")
+        self.shapesize(stretch_wid=5,stretch_len=1)
+        self.penup()
+        self.goto(posi)
+
+    def upward(self):
+        new_y=self.ycor()+20
+        self.goto(self.xcor(),new_y)
+
+    def downward(self):
+        new_y=self.ycor()-20
+        self.goto(self.xcor(),new_y)
